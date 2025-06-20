@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **laravel **
 
-- 👨‍💻 All of my projects are available at [https://Sachinmaurya11.github.io/](https://Sachinmaurya11.github.io/)
-
 - 📫 How to reach me **sachinkumarmaurya283@gmail.com**
 
 - ⚡ Fun fact **I think I am Different**
